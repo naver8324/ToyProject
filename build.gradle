@@ -47,6 +47,10 @@ dependencies {
 	// Junit
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
+	//thymeleaf
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+
 	// MySQL
 //	runtimeOnly 'com.mysql:mysql-connector-j'
 }

@@ -50,7 +50,6 @@ dependencies {
 	//thymeleaf
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 
-
 	// MySQL
 //	runtimeOnly 'com.mysql:mysql-connector-j'
 }
